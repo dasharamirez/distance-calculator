@@ -24,7 +24,7 @@ Enter y2: 8
 The distance between the two points is: 7.07
 ```
 
-## Author
-Name: Dasha Onielle A. Ramirez
+## Authors
+Name: Dasha Onielle A. Ramirez, Seyanth Marghelle Colleen R. Ibe
 
 Section: 8-Sampaguita
