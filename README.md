@@ -3,6 +3,13 @@
 ## Description
 This Python program calculates the distance between two points `(x1, y1)` and `(x2, y2)` on a 2D plane. It uses the distance formula and the Python `math` library to calculate the result.
 
+## Formula Used
+d = √{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+1. Step 1: Subtract x_1 from x_2 and y_1 from y_2 to find the differences.
+2. Step 2: Square both of the results.
+3. Step 3: Add the two squared numbers together.
+4. Step 4: Use python function 'math.sqrt()' to get the final distance. 
+
 ## How to Run
 1. Open the `distance_calculator.py` file in a Python editor or IDE.
 2. Run the program.
